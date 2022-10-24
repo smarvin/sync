@@ -1,8 +1,8 @@
 # Site settings
-title: tabcmd
-email: scot.marvin@tableau.com
+title: TOC sync
+email: scot.marvin@salesforce.com
 description: Connect to your web data from Tableau.
-baseurl: "/tabcmd"
+baseurl: "/toc-sync"
 # permalink: pretty
 defaults:
   -
