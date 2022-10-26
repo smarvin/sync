@@ -2,7 +2,7 @@
 title: toc-sync
 email: scot.marvin@salesforce.com
 description: See where you are in the TOC.
-baseurl: "/toc-sync"
+baseurl: "/sync"
 # permalink: pretty
 defaults:
   -
