@@ -1,7 +1,7 @@
 # Site settings
-title: TOC sync
+title: toc-sync
 email: scot.marvin@salesforce.com
-description: Connect to your web data from Tableau.
+description: See where you are in the TOC.
 baseurl: "/toc-sync"
 # permalink: pretty
 defaults:
